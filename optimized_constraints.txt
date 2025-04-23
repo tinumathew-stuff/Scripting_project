@@ -1,0 +1,8 @@
+Recommended constraints after optimization:
+Clock Period: 1.18 ns
+Power Budget: 100.00 mW
+Area Budget: 1000 LUTs
+
+Estimated Results:
+Power Usage: 0.00 mW
+Area Usage: 0 LUTs
